@@ -1,0 +1,4 @@
+owner: Wivon
+repo: PlugApp
+provider: github
+updaterCacheDirName: plug-updater
